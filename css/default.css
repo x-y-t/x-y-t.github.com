@@ -129,7 +129,7 @@ dd { margin-left: 1.5em; padding:3px;}
 	width:100%;
 	border-bottom:1px solid #577BBF;
 	border-top:1px solid #577BBF;
-	background-color:#25C8A5;
+	background-color:#06E;
 	margin:3px 0;
 }
 
@@ -157,7 +157,7 @@ dd { margin-left: 1.5em; padding:3px;}
 }
 .hmenu1 a:link { color:#FFF; }
 .hmenu1 a:visited { color:#FFF; }
-.hmenu1 a:hover { color:#FFF; background-color:#06F; }
+.hmenu1 a:hover { color:#06F; background-color:#FFF; }
 .hmenu1 li.active a { color:#25C8A5 !important; background-color:#FFF !important; margin-left:-1px; cursor:default;}
 
 .hmenu1 li.dir a { cursor:default; background-color:#E6EDFF; color:#000; background-image:url(../images/nav-arrow-down.png); background-repeat:no-repeat; background-position:right center; padding-right:20px; }
