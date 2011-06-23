@@ -664,6 +664,8 @@ text-indent:0 !important;}
 #container { width: 960px; margin:0px auto; }
 .header, .main, .footer { clear:both; padding-top:10px; }
 
+.footer {text-align: center;}
+
 .center640 { width:640px; }
 .center460 { width:460px; }
 

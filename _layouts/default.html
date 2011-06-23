@@ -4,7 +4,10 @@
 	<title>{{ site.com }}</title>
 	<meta name="keywords" content="呼叫中心 软交换 解决方案 VoIP SIP FreeSWITCH" /> 
 	<link rel="stylesheet" href="/css/default.css" type="text/css" media="screen" title="default" charset="utf-8">
-
+	<link href="/css/facebox.css" media="screen" rel="stylesheet" type="text/css"/>
+	<script type="text/javascript" charset="utf-8" src="/js/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="/js/facebox.js"></script>
+		
 	<script type="text/javascript">
 
 	  var _gaq = _gaq || [];
@@ -17,31 +20,16 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 
+
+	jQuery(document).ready(function($) {
+	  	$('a[rel*=facebox]').facebox() 
+	})
+
 	</script>
+	
 </head>
 <body>
-<div id="header">
-	<div id="logo">
-		<a href="/"><img src="/images/logo.png" border="0" style="float:left"/></a>
-		<div>
-			<br>
-			<br>
-			<br>
-			<br>
-			<span style="font-size:32px;">专业 IP 呼叫中心解决方案</span>
-		</div>
-	</div>
 
-	<div class="hmenu1" style="text-align:right">
-		<ul>
-			<li><a href="/">首页</a></li>
-			<!-- <li><a href="/news.html">新闻动态</a></li> -->
-			<li><a href="/about.html">关于我们</a></li>
-		</ul>
-	</div>
-</div>
-</div>      
-<hr/>
 <div id="wrapper">
 	<div id="page">
 		<div id="content">
@@ -49,7 +37,6 @@
 		</div>
 	</div>
 	<div class="footer">
-		<hr>
-		Copyright &copy; 2011. 北京信悦通科技有限公司 保留所有权利.
+		Copyright &copy; 2010-2011. 北京信悦通科技有限公司 保留所有权利.
 	</div>
 </body>
