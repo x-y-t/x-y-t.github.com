@@ -29,7 +29,7 @@ hr { clear:both; background-color:#FFF; color:#FFF; border:none; height:0px;}
 /* basic.css ### This basic file is for controlling the basic typography styling. */
 
 body,input,select {
-	font-family:Verdana, Arial, Helvetica;
+	font-family:Arial, Sans-serif, Verdana, Helvetica;
 	font-size:12px;
 	font-weight:normal;
 	line-height:1.4em;
