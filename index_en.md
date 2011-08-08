@@ -3,6 +3,10 @@ layout: default
 title: Beijing XyTech Co., Ltd.
 ---
 
+<div id="topnav" style="float:right">
+	<a href="/">中文</a>
+</div>
+
 <br>
 <br>
 <div align="center">
