@@ -3,6 +3,10 @@ layout: default
 title: {{ site.com }}
 ---
 
+<div id="topnav" style="float:right">
+	<a href="/index_en.html">English</a>
+</div>
+
 <br>
 <br>
 <div align="center">

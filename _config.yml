@@ -3,4 +3,5 @@ markdown: rdiscount
 pygments: true
 auto: true
 
-com: 北京信悦通科技有限公司
+com: "北京信悦通科技有限公司"
+comen: "Beijing XyTech Co., Ltd."
