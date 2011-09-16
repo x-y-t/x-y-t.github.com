@@ -54,7 +54,7 @@ FreeSWITCH consulting
 
 Founded at early 2011, we offer SIP/VoIP related products, solutions and consulting.
 <br><br>
-Our core team members comes from well known call center verdors, telecommunication companies and joint ventures.
+Our core team members came from well known call center verdors, telecommunication companies and joint ventures.
 We have 10+ years of rich experiences on the call center industry and marcketing and
 our customers ranges in government, military, petro, education, telecom carrier industries or fields locally(Asia/China) and around the world.
 We also have good/large partnership with varies system integrators and device vendors.
