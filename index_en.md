@@ -24,7 +24,7 @@ title: Beijing XyTech Co., Ltd.
 <br />
 <br />
 
-<span style="font-size:14px">VoIP/Soft-Switch Solutions</span>
+<span style="font-size:14px">VoIP/Soft-Switch Solutions & Consulting</span>
 
 <br />
 <br />
@@ -44,7 +44,7 @@ Call Center Solutions |
 
 Dispatching Solutions |
 
-FreeSWITCH consulting
+FreeSWITCH Consulting
 </div>
 <br />
 

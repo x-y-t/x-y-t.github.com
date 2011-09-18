@@ -24,7 +24,7 @@ title: {{ site.com }}
 <br />
 <br />
 
-<span style="font-size:14px">VoIP软交换技术及解决方案提供商</span>
+<span style="font-size:14px">专业VoIP软交换技术及解决方案提供商</span>
 
 <br />
 <br />
