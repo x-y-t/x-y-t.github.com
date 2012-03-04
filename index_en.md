@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beijing XyTech Co., Ltd.
+title: Beijing XinYueTong Technology Co., Ltd.
 ---
 
 <div id="topnav" style="float:right">
@@ -18,7 +18,7 @@ title: Beijing XyTech Co., Ltd.
 
 <br />
 <br />
-<span style="font-size:32px">Beijing XyTech Co., Ltd.</span>
+<span style="font-size:32px">Beijing XinYueTong Technology Co., Ltd.</span>
 
 
 <br />
