@@ -40,9 +40,9 @@ title: {{ site.com }}
 <br />
 
 <div style="color:#039;font-size:14px;background-color:#AEF;padding:3px">
-企业通讯解决方案 |
+<a href="#ipt_solutions" rel="facebox">企业通讯解决方案</a> |
 
-呼叫中心解决方案 |
+<a href="#callcenter_solutions" rel="facebox">呼叫中心解决方案</a> |
 
 <a href="#dispatching_solutions" rel="facebox">指挥调度解决方案</a> |
 
@@ -75,7 +75,7 @@ title: {{ site.com }}
 </p><p>
 	我们与官方 FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) 的合作伙伴，确保客户能得到及时、深入、有力的技术支持。
 </p><p>
-	更多的信息请联系我们 (发邮件到： info@x-y-t.com).
+	联系我们：<input type="text" value="info@x-y-t.com" readonly>
 </div>
 
 <div id="dispatching_solutions" style="font-size:14px;display:none">
@@ -89,4 +89,35 @@ title: {{ site.com }}
 	我们通过强大的软交换平台，单台提供数百方的电话会议，数千方的多播能力。通过集成调度台，除实现正常的企业通信功能外，还可以实现调度相关的点呼、选呼、组呼、广播、呼叫保持、呼叫转接、强插、强拆、多方会议等功能。系统通过强大的算法和精确地控制保证高优先级业务优先得到解决。
 </p><p>
 	除此之外，系统还提供强大、方便的API和SDK。集成商可以通过API和SDK实现所有的控制功能。
+</p><p>
+	联系我们：<input type="text" value="info@x-y-t.com" readonly>
+</p>
+</div>
+
+<div id="callcenter_solutions" style="font-size:14px;display:none;">
+<p>
+	OLA软交换平台是一个运营商级的软交换平台。它具有呼叫呼叫中心的全部功能。它可以直接与符合SIP协议标准的设备对接，也可以通过SIP网关设备或相应的语音板卡与TDM语音设备的协同工作。
+</p><p>
+特点：
+<ul>
+	<li>- 基于Linux操作系统，运行稳定可靠</li>
+	<li>- 基于多线程的高性能内核引擎，可以满足不同规模企业和呼叫中心的应用需求</li>
+	<li>- 丰富的功能和高度的可扩展性可以很好的满足不同企业对于语音应用的需求</li>
+	<li>- 丰富的媒体编码支持，开放的标准协议，使其具备良好的兼容性</li>
+	<li>- 支持灵活的安装部署方案，仅需一台服务器即可提供全部的功能，满足中小规模用户的，也可通过多台服务器分散部署的方式满足大规模企业的应用需求。</li>
+	<li>- 高可靠性，OLA可以提供多种备份和集群解决方案，满足企业对于高可靠性的要求。</li>
+</ul>
+</p><p>
+	OLA软交换平台提供新一代的HTTP API, Websocket API及 Linux/WindowsSDK 便于系统集成，同时支持奈科（Nexus）CTI中件件。
+</p>
+联系我们：<input type="text" value="info@x-y-t.com" readonly>
+</div>
+
+<div id="ipt_solutions" style="font-size:14px;display:none">
+<p>
+	基于 VoIP 的企业通信解决方案可以方便、快捷地连结您的各分支机构。在享受低成本的企业通信的同时给您带来异想不到的新功能和新体验。
+</p><p>
+	通过 OLA 软交换平台，我们支持标准的 SIP 协议及开放的通信标准。系统运行稳定可靠，通过积木式叠加及分布式组网可以提供极佳的通信能力。
+<p>
+	联系我们：<input type="text" value="info@x-y-t.com" readonly>
 </div>

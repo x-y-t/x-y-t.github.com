@@ -42,9 +42,9 @@ title: Beijing XinYueTong Technology Co., Ltd.
 <br />
 
 <div style="color:#039;font-size:14px;background-color:#AEF;padding:3px">
-Company PBX solutions |
+<a href="#ipt_solutions" rel="facebox">Company PBX solutions</a> |
 
-Call Center Solutions |
+<a href="#callcenter_solutions" rel="facebox">Call Center Solutions</a> |
 
 <a href="#dispatching_solutions" rel="facebox">Dispatching Solutions</a> |
 
@@ -81,7 +81,7 @@ Contact us for more information: <input type="text" value="info@x-y-t.com" reado
 </p><p>
 	We are partener of the official FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) and we make sure every customer can get deep and solid support.
 </p><p>
-	Contact Us for more information (mail to info@x-y-t.com).
+	Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
 </div>
 
 <div id="dispatching_solutions" style="font-size:14px;display:none">
@@ -91,4 +91,36 @@ Contact us for more information: <input type="text" value="info@x-y-t.com" reado
 	Our solution provides efficient and flexible communications mode, multi-level call control by it's top design and though our solid soft-switch system. The friendly user interface ensures it even more efficient and easier to use.
 </p><p>
 	And we offer API and SDK which enable system integrators to integrate it into any system with ease and with all the power of the system.
+</p>
+Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
+</div>
+
+<div id="callcenter_solutions" style="font-size:14px;display:none">
+<p>
+	OLA Soft Switch Platform is a telecom level switching platform. It has all Call Center functions and it speaks SIP and also it can communicate with PSTN networks with TDM hardwares.
+</p><p>
+Features:
+<ul>
+	<li>Based on Freeswitch and Linux, stable and reliable</li>
+	<li>Based on multi-threaded core, can scale from small office use to real telecom use</li>
+	<li>Rich codec support, G711, G722, G729, G723, Speex, gsm, iLBC, SILK, iSAC and more...</li>
+	<li>Flexiable deployment, all functions including recording can be on one server</li>
+	<li>Hi availability</li>
+</ul>
+</p><p>
+	OLA offers HTTP Rest API, websocket API and Linux/Windows SDK, damn easy to integrate into other systems such as CRM and OA. And, it does support Nexus CTI middleware.
+</p>
+Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
+
+</div>
+
+<div id="ipt_solutions" style="font-size:14px;display:none">
+<p>
+	VoIP based communication connects your headquarter and your branches with low cost and more features than PSTN solutions. And we do offer PSTN interop through TDM hardwares and gateways.
+</p>
+<p>
+	Contact us for more information.
+</p>
+Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
+
 </div>
