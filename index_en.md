@@ -60,7 +60,7 @@ Founded at early 2011, we offer SIP/VoIP related products, solutions and consult
 <br><br>
 Our core team members came from well known call center vendors, telecommunication companies and joint ventures.
 We have 10+ years of rich experiences on the call center industry and marketing and
-our customers range in government, military, petro, education, telecom carrier industries or fields locally(Asia/China) and around the world.
+our customers range in government, military, petrol, coal, education, telecom carrier industries or fields locally(Asia/China) and around the world.
 We also have good/large partnership with varies system integrators and device vendors.
   
 <br><br>
