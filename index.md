@@ -29,10 +29,12 @@ title: {{ site.com }}
 <br />
 <br />
 <br />
-<br />
-<br />
 <a href="#about" rel="facebox">[关于我们]</a>
 <br />
+<br />
+<img src="/images/sangoma.png" border="0"/>
+<br />
+<span style="font-size:14px">Sangoma语音板卡中国一级经销商</span>
 <br />
 <br />
 <br />

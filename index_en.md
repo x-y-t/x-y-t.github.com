@@ -29,9 +29,13 @@ title: Beijing XinYueTong Technology Co., Ltd.
 <br />
 <br />
 <br />
-<br />
-<br />
 <a href="#about" rel="facebox">[About us]</a>
+<br />
+<br />
+<img src="/images/sangoma.png" border="0"/>
+<br />
+<span style="font-size:14px">Sangoma China Official Reseller</span>
+<br />
 <br />
 <br />
 <br />
