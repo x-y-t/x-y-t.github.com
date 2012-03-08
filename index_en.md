@@ -34,7 +34,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
 <br />
 <img src="/images/sangoma.png" border="0"/>
 <br />
-<span style="font-size:14px">Sangoma China Official Reseller</span>
+<span style="font-size:14px"><a href="http://sangoma.com/">Sangoma</a> China Official Reseller</span>
 <br />
 <br />
 <br />

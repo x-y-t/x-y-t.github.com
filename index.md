@@ -34,7 +34,7 @@ title: {{ site.com }}
 <br />
 <img src="/images/sangoma.png" border="0"/>
 <br />
-<span style="font-size:14px">Sangoma语音板卡中国一级经销商</span>
+<span style="font-size:14px"><a href="http://sangoma.com/">Sangoma</a> 语音板卡中国一级经销商</span>
 <br />
 <br />
 <br />
