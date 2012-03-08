@@ -46,7 +46,7 @@ Company PBX solutions |
 
 Call Center Solutions |
 
-Dispatching Solutions |
+<a href="#dispatching_solutions" rel="facebox">Dispatching Solutions</a> |
 
 <a href="#freeswitch_solutions" rel="facebox">FreeSWITCH Consulting</a>
 </div>
@@ -82,4 +82,13 @@ Contact us for more information: <input type="text" value="info@x-y-t.com" reado
 	We are partener of the official FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) and we make sure every customer can get deep and solid support.
 </p><p>
 	Contact Us for more information (mail to info@x-y-t.com).
+</div>
+
+<div id="dispatching_solutions" style="font-size:14px;display:none">
+<p>
+	We offer advanced dispatching &amp; commanding system which was designed to improve efficiency for produce factory such as Petrolem, Steel Works, Electric Power, coal Industry, etc corporation.
+</p><p>
+	Our solution provides efficient and flexible communications mode, multi-level call control by it's top design and though our solid soft-switch system. The friendly user interface ensures it even more efficient and easier to use.
+</p><p>
+	And we offer API and SDK which enable system integrators to integrate it into any system with ease and with all the power of the system.
 </div>
