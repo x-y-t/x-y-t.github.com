@@ -46,7 +46,7 @@ title: {{ site.com }}
 
 指挥调度解决方案 |
 
-FreeSWITCH 技术顾问及商业支持
+<a href="#freeswitch_solutions" rel="facebox">FreeSWITCH 技术顾问及商业支持</a>
 </div>
 <br />
 
@@ -62,4 +62,18 @@ FreeSWITCH 技术顾问及商业支持
 
 <br><br>
 联系我们：<input type="text" value="info@x-y-t.com" readonly>
+</div>
+
+<div id="freeswitch_solutions" style="font-size:14px;display:none">
+<p>
+	我们提供中英文的 FreeSWITCH (http://www.freeswitch.org) 开源软交换系统的支持与服务。
+
+</p><p>
+	我们有多年 FreeSWITCH 开发与使用经验。我们的工程师活跃于 FreeSWITCH 社区，多年来贡献了大量的的补丁和代码。
+</p><p>
+	我们提供客户咨询以及商业的技术支持合同，帮助你解决技术难题并维护您的 FreeSWITCH 平台。
+</p><p>
+	我们与官方 FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) 的合作伙伴，确保客户能得到及时、深入、有力的技术支持。
+</p><p>
+	更多的信息请联系我们 (发邮件到： info@x-y-t.com).
 </div>

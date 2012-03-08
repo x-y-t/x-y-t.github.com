@@ -48,7 +48,7 @@ Call Center Solutions |
 
 Dispatching Solutions |
 
-FreeSWITCH Consulting
+<a href="#freeswitch_solutions" rel="facebox">FreeSWITCH Consulting</a>
 </div>
 <br />
 
@@ -68,4 +68,18 @@ Our goal is to offer reliable, open, and feature rich communication products and
 
 <br><br>
 Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
+</div>
+
+<div id="freeswitch_solutions" style="font-size:14px;display:none">
+<p>
+	We provide support and services for the FreeSWITCH Open Source Soft-Switch (http://www.freeswitch.org) in Chinese Language and English.
+
+</p><p>
+	We have years of FreeSWITCH Experience and our core technicians are active members in the FreeSWITCH community and we contributed numerous patches and improvements in the last few years.
+</p><p>
+	We offer custom consulting as well as commercial support contracts to help you maintain your FreeSWITCH installation.
+</p><p>
+	We are partener of the official FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) and we make sure every customer can get deep and solid support.
+</p><p>
+	Contact Us for more information (mail to info@x-y-t.com).
 </div>
