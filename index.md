@@ -46,6 +46,8 @@ title: {{ site.com }}
 
 <a href="#dispatching_solutions" rel="facebox">指挥调度解决方案</a> |
 
+<a href="#video_solutions" rel="facebox">视频解决方案</a> |
+
 <a href="#freeswitch_solutions" rel="facebox">FreeSWITCH 技术顾问及商业支持</a>
 </div>
 <br />
@@ -118,6 +120,17 @@ title: {{ site.com }}
 	基于 VoIP 的企业通信解决方案可以方便、快捷地连结您的各分支机构。在享受低成本的企业通信的同时给您带来异想不到的新功能和新体验。
 </p><p>
 	通过 OLA 软交换平台，我们支持标准的 SIP 协议及开放的通信标准。系统运行稳定可靠，通过积木式叠加及分布式组网可以提供极佳的通信能力。
+<p>
+	联系我们：<input type="text" value="info@x-y-t.com" readonly>
+</div>
+
+<div id="video_solutions" style="font-size:14px;display:none">
+<p>
+	OLA 软交换平台内置 RTMP Video 支持，从网页上直接与SIP客户端视频聊天不再困难。
+</p><p>
+	我们深知，解决RTMP与SIP通信已经有无数的开源解决方案，但是，它们是使用了几种甚至十几种软件搭起来的。而我们的解决方案，只需要一台 OLA 软交换设备!
+</p></p>
+	除此之外，我们也可以通过RTSP与各种视频源对接，配合我们的硬件设备，可以实现H263、H264、MPEG4等各种编码转换、缩放、字幕、画中画等，使您的视频通信随心所欲。
 <p>
 	联系我们：<input type="text" value="info@x-y-t.com" readonly>
 </div>

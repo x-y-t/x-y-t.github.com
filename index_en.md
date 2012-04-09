@@ -48,6 +48,8 @@ title: Beijing XinYueTong Technology Co., Ltd.
 
 <a href="#dispatching_solutions" rel="facebox">Dispatching Solutions</a> |
 
+<a href="#video_solutions" rel="facebox">Video Solutions</a> |
+
 <a href="#freeswitch_solutions" rel="facebox">FreeSWITCH Consulting</a>
 </div>
 <br />
@@ -119,8 +121,16 @@ Contact us for more information: <input type="text" value="info@x-y-t.com" reado
 	VoIP based communication connects your headquarter and your branches with low cost and more features than PSTN solutions. And we do offer PSTN interop through TDM hardwares and gateways.
 </p>
 <p>
-	Contact us for more information.
+	Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
 </p>
-Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
+</div>
 
+<div id="video_solutions" style="font-size:14px;display:none">
+<p>
+	Ever dreamed in browser based flash(RTMP) to sip phone video chat? Ever sucked in all kinds of hack ways? In OLA Soft Switch you would just forget a bunch of softwares, so called flash-to-sip gateways. All you need to do with OLA is just Call from your browser and you sip phone immediately rings! Our solution is C-language based so you'd expect maximum performance on your hardware.
+</p>
+<p>
+	We also offers the ability to get/send(stream) video from/to all kinds of cameras/video displays through RTSP. With our unique hardware, you can also transcode, resize in H263, H264, MPEG4 etc.. And ever you imagined to  mix 16 video streams and send to anyone you want?
+</p>
+	Contact us for more information: <input type="text" value="info@x-y-t.com" readonly>
 </div>
