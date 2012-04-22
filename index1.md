@@ -29,7 +29,7 @@ title: {{ site.com }}
 <br />
 <br />
 <br />
-<a href="#about" rel="facebox">[关于我们]</a>
+<a href="#about" rel="facebox">[关于我们111]</a>
 <br />
 <br />
 <img src="/images/sangoma.png" border="0"/>
