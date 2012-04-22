@@ -8,11 +8,11 @@ title: {{ site.com }}
 				<a href="index.html"><img src="images/logo.jpg" alt="" /></a>		
 			</div>		
 			<ul>
-				<li><a href="1.html"><span>企业通讯解决方案</span></a></li>
-				<li><a href="2.html"><span>呼叫中心解决方案</span></a></li>
-				<li><a href="3.html"><span>指挥调度解决方案</span></a></li>
-				<li><a href="4.html"><span>视频解决方案</span></a></li>
-				<li><a href="5.html"><span>FreeSWITCH 技术顾问及商业支持</span></a></li>
+				<li><a href="1"><span>企业通讯解决方案</span></a></li>
+				<li><a href="2"><span>呼叫中心解决方案</span></a></li>
+				<li><a href="3"><span>指挥调度解决方案</span></a></li>
+				<li><a href="4"><span>视频解决方案</span></a></li>
+				<li><a href="5"><span>FreeSWITCH</span></a></li>
 			</ul>
 </div>
 <div id="body">
