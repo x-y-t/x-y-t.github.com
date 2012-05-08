@@ -661,3 +661,8 @@ body {
 	text-align: center;	
 	text-shadow: 1px 1px 1px #fff;
 }
+
+input {
+	border: 0;
+	font-size: 1.2em;
+}

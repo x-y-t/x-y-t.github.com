@@ -37,7 +37,7 @@ OLA软交换平台提供新一代的HTTP API, Websocket API及 Linux/WindowsSDK 
 		</div>
 		<div>
 			<h2>联系我们</h2>
-			<p><a href="mailto:info@x-y-t.com">info@x-y-t.com</a></p>
+			<p><input readonly value="info@x-y-t.com"></input></p>
 		</div>
 	</div>
 </div>

@@ -31,7 +31,7 @@ title: {{ site.com }}
 		</div>
 		<div>
 			<h2>联系我们</h2>
-			<p><a href="mailto:info@x-y-t.com">info@x-y-t.com</a></p>
+			<p><input readonly value="info@x-y-t.com"></input></p>
 		</div>
 	</div>
 </div>
