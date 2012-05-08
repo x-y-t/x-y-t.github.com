@@ -16,7 +16,7 @@ title: {{ site.com }}
 		<li><a href="callcenter.html"><span>呼叫中心解决方案</span></a></li>
 		<li><a href="commanding_dispatching.html"><span>指挥调度解决方案</span></a></li>
 		<li class="selected"><a href="sip_video.html"><span>视频解决方案</span></a></li>
-		<li><a href="freeswitch_consulting.html"><span>FreeSWITCH</span></a></li>
+		<li><a href="freeswitch_solutions.html"><span>FreeSWITCH</span></a></li>
 	</ul>
 </div>
 <div id="body">
