@@ -5,14 +5,14 @@ title: {{ site.com }}
 
 <div id="header">
 	<div id="logo">
-		<a href="index1"><img src="images/logo.jpg" alt="" /></a>
-	</div>		
+		<a href="/"><img src="images/logo.jpg" alt="" /></a>
+	</div>
 	<ul>
-		<li><a href="1.html"><span>企业通讯解决方案</span></a></li>
-		<li><a href="2.html"><span>呼叫中心解决方案</span></a></li>
-		<li class="selected"><a href="3.html"><span>指挥调度解决方案</span></a></li>
-		<li><a href="4.html"><span>视频解决方案</span></a></li>
-		<li><a href="5.html"><span>FreeSWITCH</span></a></li>
+		<li><a href="ippbx.html"><span>企业通讯解决方案</span></a></li>
+		<li><a href="callcenter.html"><span>呼叫中心解决方案</span></a></li>
+		<li class="selected"><a href="commanding_dispatching.html"><span>指挥调度解决方案</span></a></li>
+		<li><a href="sip_video.html"><span>视频解决方案</span></a></li>
+		<li><a href="freeswitch_consulting.html"><span>FreeSWITCH</span></a></li>
 	</ul>
 </div>
 <div id="body">
