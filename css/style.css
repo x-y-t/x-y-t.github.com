@@ -21,7 +21,7 @@ body {
 #header ul {
 	float: right;
 	margin: 0;
-	padding: 70px 0 0 0;
+	padding: 58px 0 0 0;
 	overflow: hidden;	
 	width: 605px;
 }
@@ -77,6 +77,11 @@ body {
 	background-position: -70px -74px; 
 } 
 
+#lang a {
+	color: #2a4f5e;
+	float:right;
+	margin-top:10px
+}
 #body {
 	background: url(../images/bg-content.gif) repeat-x top left;
 	margin: 0;

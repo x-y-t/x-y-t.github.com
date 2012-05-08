@@ -4,6 +4,10 @@ title: {{ site.com }}
 ---
 
 <div id="header">
+	<div id="lang">
+		<a href="/index_en.html">English</a>
+	</div>
+
 	<div id="logo">
 		<a href="/"><img src="images/logo.jpg" alt="" /></a>
 	</div>

@@ -4,7 +4,7 @@ title: {{ site.com }}
 ---
 
 <div id="header">
-			<div id="lang" style="float:right;padding-top:10px">
+			<div id="lang">
 				<a href="/index_en.html">English</a>
 			</div>
 	
