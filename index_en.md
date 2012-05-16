@@ -88,7 +88,7 @@ Contact us for more information: <input type="text" value="info@x-y-t.com" reado
 
 <div id="dispatching_solutions" style="font-size:14px;display:none">
 <p>
-	We offer advanced commanding & dispatching system which was designed to improve efficiency for produce factories such as Petroleum, Steel Works, Electric Power, coal Industry, etc. corporation; which was also designed to work on emergency conditions such as fire, earthquake etc.
+	We offer advanced commanding & dispatching system which was designed to improve efficiency for produce factories such as coal industry, petroleum, steel works, electric power corporations and also specially designed to work on emergency conditions such as fire, earthquake etc.
 </p><p>
 	Our solution provides efficient and flexible communications mode, multi-level call control by it's top design and though our solid soft-switch system. The friendly user interface ensures it even more efficient and easier to use.
 </p><p>
