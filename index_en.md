@@ -58,9 +58,9 @@ title: Beijing XinYueTong Technology Co., Ltd.
 
 <div id="about" style="font-size:14px;display:none">
 
-Founded at early 2011, we offer SIP/VoIP related products, solutions and consulting.
+Founded at early 2011, our company offers SIP/VoIP related products, solutions and consultings.
 <br><br>
-Our core team members came from well-known call center vendors, telecommunication companies and joint ventures.
+Our core team members come from well-known call center vendors, telecommunication companies and joint ventures.
 We have 10+ years of rich experience on the call center industry and marketing and
 our customers involve in government, military, petrol, coal, education, telecom carrier industries or fields locally(Asia/China) and around the world.
 We also have good/large partnership with varies system integrators and device vendors.
