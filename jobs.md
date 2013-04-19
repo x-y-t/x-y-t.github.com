@@ -26,18 +26,22 @@ title: {{ site.com }}
 
 <pre>
 			职位： Windows平台VoIP开发工程师
-			要求： 有Windows平台软件开发经验，熟悉C语言，熟练掌握C#，有一种以上脚本语言编程经验，有Linux工作经验者优先，有VoIP经验者优先。
+			要求： 有Windows平台软件开发经验，熟悉C语言，熟练掌握C#，有一种以上脚本语言编程经验，
+			      有Linux工作经验者优先，有VoIP经验者优先。
 			工作职责：开发VoIP客户端系统。
 </pre>
 <pre>
 			职位： Linux系统运维工作师
-			要求： 3年以上Linux系统维护工作经验，熟悉主流Web相关服务器软件的配置，熟悉数据库。熟悉常用脚本语言如Shell、Perl、Ruby、Python等。
-			工作职责：负责在线网站服务器集群系统的维护，备份等。能同时并行维护大量维护器。工作认真负责。
+			要求： 3年以上Linux系统维护工作经验，熟悉主流Web相关服务器软件的配置，熟悉数据库。
+			      熟悉常用脚本语言如Shell、Perl、Ruby、Python等。
+			工作职责：负责在线网站服务器集群系统的维护，备份等。能同时并行维护大量维护器。
+			      工作认真负责。
 </pre>
 
 <pre>
 			职位： Linux平台VoIP开发工程师
-			要求： Linux平台C开发经验，熟悉TCP/IP协议，有Web后台及前台（HTML/Javascript）开发功底。熟悉VoIP及通信产品开发者优先，有Erlang语言基础者优先。
+			要求： Linux平台C开发经验，熟悉TCP/IP协议，有Web后台及前台（HTML/Javascript）开发功底。
+			      熟悉VoIP及通信产品开发者优先，有Erlang语言基础者优先。
 			工作职责： 负责Linux平台的VoIP产品开发及维护
 </pre>
 
