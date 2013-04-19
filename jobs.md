@@ -49,8 +49,8 @@ title: {{ site.com }}
 <pre>
 			重要说明：
 
-			我们喜欢个性化的简历，请发挥你的想象力；
-			简历请直接粘贴到邮件正文中。
+			    我们喜欢个性化的简历，请发挥你的想象力；
+			    简历请直接粘贴到邮件正文中。
 </pre>
 
 <hr>
@@ -61,12 +61,12 @@ title: {{ site.com }}
 
 <p>我们是新兴的VoIP技术服务公司，致力于软交换相关产品的研发、推广与服务。公司的产品广泛应用于政府、运营商、金融、保险、石油、煤炭等各种行业。公司有良好的发展前景，丰富的行业经验，国际领先的技术，国际化、现代化的管理方式，宽松、舒适、自由、敏捷的的工作和开发环境。
 
-<p>如果您有团队精神，有创新精神，喜欢 Linux，喜欢 VoIP，喜欢 play 各种编程语言，喜欢开源软件，喜欢钻研新技术，喜欢读书，喜欢运动，喜欢思考，态度积极向上 .... 这些已经足够了；如果您还愿意努力工作，不怕创业路上的荆棘与泥泞，甚至还是工作狂、技术控，这些已经太多了；如果您还没有决定加入我们，继续往下看啊 -
+<p>如果您有团队精神，有创新精神，喜欢 Linux，喜欢 VoIP，喜欢 play 各种编程语言，喜欢开源软件，喜欢钻研新技术，喜欢读书，喜欢运动，喜欢思考，态度积极向上 .... 这些已经足够了；如果您还愿意努力工作，不怕创业路上的荆棘与泥泞，甚至还是工作狂、技术控，这些已经太多了；如果您还没有决定加入我们，继续往下看 ---
 
 <p>您将有机会 ---
 
 <ul>
-<li>学习和钻研各种各样的技术，比如 Linux/Windows/MacOSX C/C++/C#(gcc/VisualStudio)  Erlang Ruby/Rails HTTP/HTML/Javascript/Flex PostgreSQL/MySQL/Oracle SIP FreeSWITCH git/svn</li>
+<li>学习和钻研各种各样的技术，比如 Linux/Windows/MacOSX C/C++/C#(gcc/VisualStudio)  Erlang Ruby/Rails HTTP/HTML/Javascript/Flex PostgreSQL/MySQL/Oracle SIP/FreeSWITCH/OpenSIPS git/svn</li>
 <li>提高英语水平，参与国际化的项目</li>
 <li>建设最先进的语音云计算平台</li>
 <li>到全国甚至世界各地出差/旅游</li>
