@@ -30,10 +30,13 @@ title: {{ site.com }}
 				我们有多年 FreeSWITCH 开发与使用经验。我们的工程师活跃于 FreeSWITCH 社区，多年来贡献了大量的的补丁和代码。
 			</p>
 			<p>
+				我们提供 FreeSWITCH 培训，确保您的团队深入理解 FreeSWITCH，在开发和使用中少走弯路。
+			</p>
+			<p>
 				我们提供客户咨询以及商业的技术支持合同，帮助你解决技术难题并维护您的 FreeSWITCH 平台。
 			</p>
 			<p>
-				我们与官方 FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) 的合作伙伴，确保客户能得到及时、深入、有力的技术支持。
+				我们是官方 FreeSWITCH Solutions (http://www.freeswitchsolutions.com/) 的合作伙伴，确保客户能得到及时、深入、有力的技术支持。
 			</p>
 		</div>
 		<div>
