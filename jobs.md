@@ -27,7 +27,7 @@ title: {{ site.com }}
 <pre>
 			职位： Windows平台VoIP开发工程师
 			要求： 有Windows平台软件开发经验，熟悉C语言，熟练掌握C#，有一种以上脚本语言编程经验，
-			      有Linux工作经验者优先，有VoIP经验者优先。
+			      有Linux工作经验者优先，有VoIP或通信相关经验者优先。
 			工作职责：开发VoIP客户端系统。
 </pre>
 <pre>
