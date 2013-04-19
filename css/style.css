@@ -2,11 +2,11 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	margin:0;
-	padding: 0;	
+	padding: 0;
 }
 #header {
 	margin:0 auto;
-	padding: 0;	
+	padding: 0;
 	overflow: hidden;
 	width: 960px;
 }
@@ -14,7 +14,7 @@ body {
 	float: left;
 	height: 144px;
 	width: 355px;
-}	
+}
 #header #logo img {
 	border: 0;
 }
@@ -22,12 +22,12 @@ body {
 	float: right;
 	margin: 0;
 	padding: 58px 0 0 0;
-	overflow: hidden;	
+	overflow: hidden;
 	width: 605px;
 }
 #header ul li {
 	list-style-type: none;
-	float: left;	
+	float: left;
 	margin: 0;
 	padding: 0;
 	width: 121px;
@@ -38,10 +38,10 @@ body {
 #header ul li a:hover span,
 #header ul li.selected a,
 #header ul li.selected a span {
-	background: url(../images/menu.gif);	
+	background: url(../images/menu.gif);
 }
-#header ul li a { 
-	background-position: 10px 0; 
+#header ul li a {
+	background-position: 10px 0;
 	color: #2a4f5e;
 	display: block;
 	font-size: 12px;
@@ -49,33 +49,33 @@ body {
 	line-height: 36px;
 	margin: 0;
 	padding: 0 0 0 10px;
-	text-align: center;	
+	text-align: center;
 	text-decoration: none;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	text-shadow: 1px 1px 1px #fff;
-} 
-#header ul li a span{ 
-	background-position: -70px 0; 
-	display: block;	
+}
+#header ul li a span{
+	background-position: -70px 0;
+	display: block;
 	margin: 0;
 	padding: 0 10px 0 0;
-} 
-#header ul li a:hover { 
-	background-position: -186px -37px; 
+}
+#header ul li a:hover {
+	background-position: -186px -37px;
 	color: #346b84;
 	text-shadow: none;
-} 
-#header ul li a:hover span { 
-	background-position: -70px -37px; 
-} 
-#header ul li.selected a{ 
-	background-position: 10px 36px; 
+}
+#header ul li a:hover span {
+	background-position: -70px -37px;
+}
+#header ul li.selected a{
+	background-position: 10px 36px;
 	color: #fff;
 	text-shadow: none;
-} 
-#header ul li.selected a span{ 
-	background-position: -70px -74px; 
-} 
+}
+#header ul li.selected a span{
+	background-position: -70px -74px;
+}
 
 #lang a {
 	color: #2a4f5e;
@@ -85,11 +85,11 @@ body {
 #body {
 	background: url(../images/bg-content.gif) repeat-x top left;
 	margin: 0;
-	padding: 0;	
+	padding: 0;
 	min-width: 960px;
 }
 #body .header {
-	background: url(../images/bg-body.gif) repeat-x bottom center;	
+	background: url(../images/bg-body.gif) repeat-x bottom center;
 	margin: 0 0 30px 0;
 }
 #body .header div {
@@ -97,45 +97,45 @@ body {
 	height: 400px;
 	margin: 0 auto;
 	padding: 0;
-	width: 960px;	
+	width: 960px;
 }
 #body .header div div {
-	background: none;	
+	background: none;
 	margin: 0;
 	padding: 60px 0 0;
 	height: 200px;
 	width: 490px;
 }
 #body .header div h3 {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 	font-size: 20px;
 	line-height: 30px;
 	margin: 18px 0 0 0;
 	padding: 0;
 }
 #body .header div h3 span {
-	display: block;	
+	display: block;
 	font-size: 25px;
 }
 #body .header div h3 a {
 	color: #2a4f5e;
-	text-decoration: none;	
+	text-decoration: none;
 }
 #body .header div h3 a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .header div p {
 	color: #333;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 12px 0 6px 0;
-	padding: 0;	
+	padding: 0;
 }
 #body .header div p a {
-	color: #507685;	
+	color: #507685;
 }
 #body .header div p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .header ul {
 	overflow: hidden;
@@ -143,7 +143,7 @@ body {
 	padding: 49px 0 0;
 }
 #body .header ul li {
-	float: left;	
+	float: left;
 	list-style: none;
 	padding: 0 5px;
 }
@@ -153,14 +153,14 @@ body {
 	overflow: hidden;
 	padding: 0 2px;
 	width: 954px;
-}	
+}
 #body .body div {
-	float: left;	
+	float: left;
 }
 #body .body .section {
 	margin: 0;
 	padding: 35px 0 0 40px;
-	width: 186px;	
+	width: 186px;
 }
 #body .body .section img {
 	display: block;
@@ -173,14 +173,14 @@ body {
 	height: 145px;
 	text-align: center;
 	text-decoration: none;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	width: 145px;
-}	
+}
 #body .body .section a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .body .section img {
-	border: 0;	
+	border: 0;
 }
 #body .body .article {
 	overflow: hidden;
@@ -193,93 +193,93 @@ body {
 	font-size: 15px;
 	font-weight: bold;
 	margin: 12px 0;
-	padding: 0;	
+	padding: 0;
 }
 #body .body .article h4 a {
 	color: #2a4f5e;
-	text-decoration: none;	
+	text-decoration: none;
 }
 #body .body .article h4 a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .body .article p {
 		text-align: center;
 		font-size: 14px;
 		line-height: 22px;
 		margin: 0;
-		padding: 0;	
+		padding: 0;
 }
 #body .body .article p a {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .body .article p a:hover {
-	color: #346b84;	
+	color: #346b84;
 }
 #body .footer {
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0 0 15px 0;
-	width: 960px;	
+	width: 960px;
 }
 #body .footer div {
-	float: left;	
+	float: left;
 	margin: 0;
 	padding: 0;
 }
 #body .footer div ul {
 	margin: 0;
-	padding: 0;	
+	padding: 0;
 }
 #body .footer div ul li {
 	list-style: none;
 	margin: 0 0 15px;
-	padding: 0 0 15px;	
+	padding: 0 0 15px;
 }
 #body .footer h3 {
 	color: #2a4f5e;
 	font-size: 14px;
 	line-height: 26px;
 	margin: 0 0 12px 0;
-	padding: 0;	
+	padding: 0;
 	text-align: justify;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 #body .footer h3 a {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 	text-decoration: none;
 }
 #body .footer h3 a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .footer .section {
 	padding: 0 10px;
-	width: 220px;	
+	width: 220px;
 }
 #body .footer ul li {
-	background: url(../images/border-dashed.gif) repeat-x bottom left;	
+	background: url(../images/border-dashed.gif) repeat-x bottom left;
 }
 #body .footer ul li:last-child {
-	background: none;	
+	background: none;
 }
 #body .footer li p {
 	color: #5d5d5d;
-	font-size: 14px;	
+	font-size: 14px;
 	line-height: 20px;
 	margin: 0;
 	padding: 0;
 	text-align: justify;
 }
 #body .footer li p a {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 	text-decoration: underline;
 }
 #body .footer li p a:hover {
-	color: #aeaeae;	
+	color: #aeaeae;
 }
 #body .footer li span {
 	color: #aeaeae;
 	display: block;
-	font-size: 10px;	
+	font-size: 10px;
 	line-height: 16px;
 	margin: 5px 0 0;
 	padding:0;
@@ -290,27 +290,27 @@ body {
 }
 #body .footer .featured {
 	padding: 0 18px 0 24px;
-	width: 438px;	
+	width: 438px;
 }
 #body .footer .featured ul li {
-	overflow: hidden;	
+	overflow: hidden;
 }
 #body .footer .featured img {
 	border: 1px solid #dbddde;
 	float: left;
-	margin: 0 20px 0 0;	
+	margin: 0 20px 0 0;
 	padding: 1px;
 }
 #body .footer .featured p {
 	margin: 0;
-	padding: 0;	
+	padding: 0;
 }
 #body .contact,
 #body .about,
 #body .services,
 #body .blog {
 	margin: 0 auto;
-	padding: 25px 10px 50px 10px;	
+	padding: 25px 10px 50px 10px;
 	width: 940px;
 }
 #body h1 {
@@ -320,8 +320,8 @@ body {
 	height: 74px;
 	line-height: 74px;
 	margin: 0;
-	padding: 0;	
-	text-transform: uppercase;	
+	padding: 0;
+	/*text-transform: uppercase;*/
 }
 #body .contact p {
 	color: #7b7b7b;
@@ -329,55 +329,55 @@ body {
 	font-weight: bold;
 	line-height: 26px;
 	margin: 0;
-	padding: 40px 0;	
+	padding: 40px 0;
 	text-align: justify;
 	width: 830px;
 }
 #body .contact p a {
-	color: #7b7b7b;	
+	color: #7b7b7b;
 }
 #body .contact p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .contact div {
 	margin: 0;
-	padding: 0 0 30px 0;	
+	padding: 0 0 30px 0;
 }
 #body .contact div h3 {
 	color: #5d5d5d;
 	font-size: 14px;
 	font-weight: bold;
 	margin: 0;
-	padding: 0 0 5px 0;	
+	padding: 0 0 5px 0;
 }
 #body .contact div ul {
 	margin: 0;
-	padding: 0 0 20px 0;		
+	padding: 0 0 20px 0;
 }
 #body .contact div ul li {
 	color: #5d5d5d;
 	font-size: 14px;
 	list-style: none;
 	margin: 0;
-	padding: 5px 0;	
+	padding: 5px 0;
 }
 #body .about div {
-	padding: 50px 0 0 0;	
+	padding: 50px 0 0 0;
 }
 #body .about h2 {
 	color: #2a4f5e;
 	font-size: 16px;
 	font-weight: bold;
 	margin: 0;
-	padding: 0;	
-	text-transform: uppercase;
+	padding: 0;
+	/*text-transform: uppercase;*/
 }
 #body .about p {
 	color: #5d5d5d;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 10px 0 0;
-	padding: 0;	
+	padding: 0;
 	text-align: justify;
 	width: 830px;
 }
@@ -385,7 +385,7 @@ body {
 	color: #5d5d5d;
 }
 #body .about p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 
 #body .about ul {
@@ -397,7 +397,7 @@ body {
 }
 
 #body .services div {
-	overflow: hidden;	
+	overflow: hidden;
 	margin: 0;
 	padding: 40px 0 0;
 }
@@ -408,13 +408,13 @@ body {
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 #body .services h2 a {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .services h2 a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .services h3 {
 	color: #2a4f5e;
@@ -423,13 +423,13 @@ body {
 	line-height: 24px;
 	margin: 15px 0 0;
 	padding: 0 30px 0 0;
-	text-transform: uppercase;	
+	/*text-transform: uppercase;*/
 }
 #body .services h3 a {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .services h3 a:hover {
-	color: #507685;	
+	color: #507685;
 }
 #body .services h4 {
 	color: #2a4f5e;
@@ -438,24 +438,24 @@ body {
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
-	text-transform: uppercase;	
+	/*text-transform: uppercase;*/
 }
 #body .services p {
 	color: #5d5d5d;
-	font-size: 14px;	
+	font-size: 14px;
 	line-height: 24px;
 }
 #body .services p a {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 }
 #body .services p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .services div ul {
 	float: left;
 	margin: 0;
 	padding: 20px 0 0;
-	width: 312px;	
+	width: 312px;
 }
 #body .services div ul li {
 	background: url(../images/bullets.gif) no-repeat center left;
@@ -463,51 +463,51 @@ body {
 	font-size: 14px;
 	list-style: none;
 	margin: 0;
-	padding: 5px 0 5px 12px;	
+	padding: 5px 0 5px 12px;
 	text-align: left;
 }
 #body .services div div {
-	overflow: hidden;	
+	overflow: hidden;
 	margin: 0;
 	padding: 0 0 5px 0;
 }
 #body .services div div img {
-	float: left;	
+	float: left;
 	padding: 0 10px 0 0;
 }
 #body .services div div p {
 	padding: 0 30px 0 0;
-	text-align: justify;	
+	text-align: justify;
 }
 #body .products {
 	margin: 0 auto;
 	padding: 25px 0 70px 0;
 	width: 960px;
-}	
+}
 #body .products h2 {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 	font-size: 26px;
 	margin: 0;
 	text-align: center;
-	text-transform: uppercase;
-	padding: 90px 0 30px 0;	
+	/*text-transform: uppercase;*/
+	padding: 90px 0 30px 0;
 }
 #body .products p {
 	color: #5d5d5d;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 0;
-	padding: 0 10px;	
+	padding: 0 10px;
 	text-align: justify;
 }
 #body .products p a {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 }
 #body .products p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .products div {
-	overflow: hidden;	
+	overflow: hidden;
 	margin: 0 0 45px 0;
 	padding: 0;
 }
@@ -516,7 +516,7 @@ body {
 	margin: 0;
 	padding: 0 10px;
 	text-align: center;
-	width: 300px;	
+	width: 300px;
 }
 #body .products div div h3 {
 	color: #2a4f5e;
@@ -524,63 +524,63 @@ body {
 	line-height: 24px;
 	margin: 0;
 	padding: 0 0 10px 0;
-	text-align: justify;	
-	text-transform: uppercase;
+	text-align: justify;
+	/*text-transform: uppercase;*/
 }
 #body .products div p {
-	font-size: 16px;	
+	font-size: 16px;
 }
 #body .products div div p {
 	font-size: 14px;
 	margin: 0;
 	padding: 0;
-	text-align: justify;	
+	text-align: justify;
 }
 #body .blog {
-	overflow: hidden;	
+	overflow: hidden;
 }
 #body .blog div {
 	float: left;
 	padding: 60px 0 0 0;
-	width: 630px;	
+	width: 630px;
 }
 #body .blog ul {
 	float: left;
 	margin: 0;
 	padding: 38px 0 0 30px;
-	width: 280px;	
+	width: 280px;
 }
 #body .blog ul li {
 	background: url(../images/border-dashed.gif) repeat-x bottom left;
 	list-style: none;
 	margin: 0;
-	padding: 22px 0;	
+	padding: 22px 0;
 }
 #body .blog ul li:last-child {
-	background: none;	
+	background: none;
 }
 #body .blog h2 {
 	color: #2a4f5e;
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
-	text-transform: capitalize;	
+	text-transform: capitalize;
 }
 #body .blog h3 {
 	color: #5d5d5d;
 	font-size: 14px;
 	margin: 0;
 	padding: 0;
-	text-align: justify;	
+	text-align: justify;
 }
 #body .blog h3 a {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 }
 #body .blog h3 a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .blog p {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 0;
@@ -588,19 +588,19 @@ body {
 	text-align: justify;
 }
 #body .blog p a {
-	color: #5d5d5d;	
+	color: #5d5d5d;
 }
 #body .blog p a:hover {
-	color: #2a4f5e;	
+	color: #2a4f5e;
 }
 #body .blog div p {
-	padding: 15px 0;	
+	padding: 15px 0;
 }
 #body .blog div p.article {
-	font-weight: bold;	
+	font-weight: bold;
 }
 #footer {
-	background: #f5f5f5 url(../images/bg-footer.gif) repeat-x top left;	
+	background: #f5f5f5 url(../images/bg-footer.gif) repeat-x top left;
 	margin: 0;
 	min-width: 960px;
 	padding: 0;
@@ -608,7 +608,7 @@ body {
 #footer div {
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 26px 0 0;	
+	padding: 26px 0 0;
 	width: 960px;
 }
 #footer div div {
@@ -616,7 +616,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	width: 192px;	
+	width: 192px;
 }
 #footer div div h3 {
 	color: #818a8c;
@@ -624,18 +624,18 @@ body {
 	font-weight: bold;
 	margin: 0 0 5px 0;
 	padding: 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 #footer div div ul,
 #footer div div ul li {
 	margin: 0;
 	list-style: none;
-	padding: 0;	
-}	
+	padding: 0;
+}
 #footer div div ul li {
 	font-size: 12px;
 	line-height: 22px;
-	color: #818a8c;	
+	color: #818a8c;
 }
 #footer div a.facebook,
 #footer div a.twitter {
@@ -644,11 +644,11 @@ body {
 	height: 27px;
 	margin: 10px 0 0;
 	text-indent: -99999em;
-	width: 40px;	
+	width: 40px;
 }
 #footer div a.facebook,
 #footer div a.twitter {
-	background: url(../images/icons.gif) no-repeat;	
+	background: url(../images/icons.gif) no-repeat;
 }
 #footer div a.facebook {
 	background-position: 0 0;
@@ -663,7 +663,7 @@ body {
 	font-size: 12px;
 	margin: 0;
 	padding: 0 0 30px 0;
-	text-align: center;	
+	text-align: center;
 	text-shadow: 1px 1px 1px #fff;
 }
 
