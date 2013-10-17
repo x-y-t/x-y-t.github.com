@@ -27,7 +27,7 @@ title: {{ site.com }}
 <pre>
 			职位： Linux平台VoIP开发工程师
 			要求： 3年以上工作经验。Linux平台C开发经验，熟悉TCP/IP协议，有Web后台（PHP/RoR等）及前台（HTML/Javascript）开发功底。
-			      熟悉VoIP及通信产品开发者优先，有Erlang语言基础者优先。
+			      熟悉VoIP及通信产品开发者优先，有Erlang语言基础者优先。英语流利者优先。
 			工作职责： 负责Linux平台的VoIP产品开发及维护
 </pre>
 
