@@ -3,6 +3,7 @@ layout: new
 title: {{ site.com }}
 ---
 
+<div align=center><a href="http://www.x-y-t.com"; target=_blank>14008957</a></div>
 <div id="header">
 			<div id="lang">
 				<a href="/index_en.html">English</a>
