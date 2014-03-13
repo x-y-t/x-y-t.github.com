@@ -3,7 +3,6 @@ layout: default
 title: Beijing XinYueTong Technology Co., Ltd.
 ---
 
-	
 <div id="header_en">
     <div id="lang">
         <a href="/">中&nbsp;文</a>
@@ -11,7 +10,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
 
     <div id="logo">
         <a href="/index_en.html"><img src="images/logoo.jpg" alt="" /></a>
-    </div>      
+    </div>
     <ul>
         <li><a href="ippbx_en.html"><span>Company PBX solutions</span></a></li>
         <li><a href="callcenter_en.html"><span>Call Center Solutions</span></a></li>
@@ -27,7 +26,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
         <h1>FreeSWITCH Consulting</h1>
         <div>
             <p>
- 		We provide support and services for the FreeSWITCH Open Source Soft-Switch (http://www.freeswitch.org) in Chinese Language and English.               
+		We provide support and services for the FreeSWITCH Open Source Soft-Switch (http://www.freeswitch.org) in Chinese Language and English.
             </p>
             <p>
 		We have years of FreeSWITCH Experience and our core technicians are active members in the FreeSWITCH community and we contributed numerous patches and improvements in the last few years.
@@ -45,5 +44,3 @@ title: Beijing XinYueTong Technology Co., Ltd.
         </div>
     </div>
 </div>
-
-

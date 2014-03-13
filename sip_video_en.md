@@ -3,7 +3,6 @@ layout: default
 title: Beijing XinYueTong Technology Co., Ltd.
 ---	
 
-
 <div id="header_en">
     <div id="lang">
         <a href="/">中&nbsp;文</a>
@@ -11,7 +10,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
 
     <div id="logo">
         <a href="/index_en.html"><img src="images/logoo.jpg" alt="" /></a>
-    </div>      
+    </div>
     <ul>
         <li><a href="ippbx_en.html"><span>Company PBX solutions</span></a></li>
         <li><a href="callcenter_en.html"><span>Call Center Solutions</span></a></li>
@@ -39,5 +38,3 @@ title: Beijing XinYueTong Technology Co., Ltd.
         </div>
     </div>
 </div>
-
-

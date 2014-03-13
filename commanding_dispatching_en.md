@@ -3,7 +3,6 @@ layout: default
 title: Beijing XinYueTong Technology Co., Ltd.
 ---
 
-	
 <div id="header_en">
     <div id="lang">
         <a href="/">中&nbsp;文</a>
@@ -42,5 +41,3 @@ title: Beijing XinYueTong Technology Co., Ltd.
         </div>
     </div>
 </div>
-
-

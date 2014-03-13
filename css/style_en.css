@@ -84,12 +84,12 @@ body {
 }
 
 #lang a:hover {
-	text-decoration:underline; 
+	text-decoration:underline;
 	color:#CC3300;
 }
 
 #topnav a {
- 	color: #2a4f5e;
+	color: #2a4f5e;
         float:right;
         margin-top:10px;
 }
