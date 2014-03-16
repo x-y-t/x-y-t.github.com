@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Beijing XinYueTong Technology Co., Ltd.
----
-
+---	
 
 <div id="header_en">
     <div id="lang">
