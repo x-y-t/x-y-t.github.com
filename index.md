@@ -33,10 +33,18 @@ title: {{ site.com }}
 		</div>
 	</div>
 	<div class="body">
-		<div class="article">
-			<p><img src="images/sangoma.png" alt="" /></p>
-			
-			<p><a href="http://sangoma.com/" target="_blank">Sangoma</a> 语音板卡中国一级经销商 </p>
-		</div>	
+		<div class="article" style="text-align:center">
+			<table width="100%" style="text-align:center;">
+				<tr>
+					<td align="right"><br><img src="images/plivo_logo.jpg" alt="Plivo" />
+						<br><a href="http://plivo.com/" target="_blank">Plivo</a> 中国合作伙伴
+					</td>
+					<td width="40px"></td>
+					<td align="left"><img src="images/sangoma.png" alt="Sangoma" />
+						<br><a href="http://sangoma.com/" target="_blank">Sangoma</a> 语音板卡中国一级经销商
+					</td>
+				</tr>
+			</table>
+		</div>
 	</div>
 </div>
