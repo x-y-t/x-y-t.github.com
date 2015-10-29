@@ -26,7 +26,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
         <h1>Call Center Solutions</h1>
         <div>
             <p>
-		OLA Soft Switch Platform is a telecom level switching platform. It has all Call Center functions and it speaks SIP and also it can communicate with PSTN networks with TDM hardwares.
+        Ocean Soft Switch Platform is a telecom level switching platform. It has all Call Center functions and it speaks SIP and also it can communicate with PSTN networks with TDM hardwares.
             </p>
         </div>
         <div>
@@ -39,7 +39,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
                 <li>- Hi availability</li>
             </ul>
 	    <p>
-		OLA offers HTTP Rest API, websocket API and Linux/Windows SDK, damn easy to integrate into other systems such as CRM and OA. And, it does support Nexus CTI middleware.
+        Ocean offers HTTP Rest API, websocket API and Linux/Windows SDK, damn easy to integrate into other systems such as CRM and OA. And, it does support Nexus CTI middleware.
 	    </p>
         </div>
         <div>

@@ -30,7 +30,7 @@ title: {{ site.com }}
 				我们有多年 FreeSWITCH 开发与使用经验。我们的工程师活跃于 FreeSWITCH 社区，多年来贡献了大量的的补丁和代码。另外，我们也创办了 <a href="http://www.freeswitch.org.cn" target="_blank">FreeSWITCH-CN</a> 中文技术社区，帮助更多的说中文的朋友学习和使用FreeSWITCH。
 			</p>
 			<p>
-				我们提供 FreeSWITCH <a href="http://www.freeswitch.org.cn/tags.html#培训" target="_blank">培训</a> ，确保您的团队深入理解 FreeSWITCH，在开发和使用中少走弯路。
+				我们提供 FreeSWITCH <a href="http://www.freeswitch.org.cn/training.html" target="_blank">培训</a> ，确保您的团队深入理解 FreeSWITCH，在开发和使用中少走弯路。
 			</p>
 			<p>
 				我们提供客户咨询以及商业的技术支持合同，帮助你解决技术难题并维护您的 FreeSWITCH 平台。
