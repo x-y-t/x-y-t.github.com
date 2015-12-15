@@ -77,10 +77,13 @@ body {
 	background-position: -70px -74px;
 }
 
-#lang a {
-	color: #2a4f5e;
+#lang {
 	float:right;
 	margin-top:10px;
+}
+
+#lang a {
+		color: #2a4f5e;
 }
 
 #topnav a {
