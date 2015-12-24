@@ -60,7 +60,7 @@ title: {{ site.com }}
 </pre>
 
 <pre>
-			职位： Linux系统运维工作师
+			职位： Linux系统运维工程师
 			要求： 3年以上Linux系统维护工作经验，熟悉主流Web相关服务器软件的配置，熟悉主流数据库。
 			优先： 熟悉常用脚本语言如Shell、Perl、Ruby、Python等。
 			工作职责：负责在线网站服务器集群系统的维护，备份等。能同时并行维护大量维护器。
@@ -72,6 +72,13 @@ title: {{ site.com }}
 			要求： 熟练使用Photoshop，有较好的设计功底。
 			优先： 有互联网产品工作经验者优先，有Web CSS工作经验者优先。
 			工作职责：负责公司网站、Web产品、宣传资料等设计。
+</pre>
+
+<pre>
+			职位： Android开发工程师
+			要求： 1年以上Android开发经验，熟悉Android开发流程及App应用发布流程，熟悉网络协议。
+			优先： 有后台API开发经验者优先，有SIP/WebRTC客户端开发经验者优先，熟悉ReactNative者优先。
+			工作职责：负责通信相关的Android App开发。
 </pre>
 
 <pre>
