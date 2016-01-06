@@ -5,6 +5,8 @@ title: {{ site.com }}
 
 <div id="header">
 			<div id="lang">
+				旗下公司：
+				<a href="http://x-y-t.cn">烟台小樱桃</a> |
 				<a href="/jobs.html">工作机会</a> |
 				<a href="/index_en.html">English Version</a>
 			</div>
