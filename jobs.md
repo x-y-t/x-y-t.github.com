@@ -5,19 +5,17 @@ title: {{ site.com }}
 
 <div id="header">
 	<div id="lang">
-		<a href="/index_en.html">English</a>
+		<!-- <a href="/index_en.html">English</a> -->
 	</div>
+			<div style="font-size:20pt">
+				<br>
+				<br>
+				<a href="/">烟台小樱桃网络科技有限公司</a>
+			</div>
 
-	<div id="logo">
-		<a href="/"><img src="images/logo.jpg" alt="" /></a>
-	</div>		
-	<ul>
-		<li><a href="ippbx.html"><span>企业通讯解决方案</span></a></li>
-		<li><a href="callcenter.html"><span>呼叫中心解决方案</span></a></li>
-		<li><a href="commanding_dispatching.html"><span>指挥调度解决方案</span></a></li>
-		<li><a href="sip_video.html"><span>视频解决方案</span></a></li>
-		<li><a href="freeswitch_solutions.html"><span>FreeSWITCH</span></a></li>
-	</ul>
+	<!-- <div id="logo"> -->
+		<!-- <a href="/"><img src="images/logo.jpg" alt="" /></a> -->
+	<!-- </div> -->
 </div>
 <div id="body">
 	<div class="about">
@@ -83,7 +81,7 @@ title: {{ site.com }}
 
 <pre>
 			工作地点：烟台市芝罘区峰山路3号
-			联系方式：请发邮件到 <input readonly value="jobs@x-y-t.com"/>
+			联系方式：请发邮件到 <input readonly value="jobs@x-y-t.cn"/>
 </pre>
 
 <pre>
