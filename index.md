@@ -15,7 +15,7 @@ title: {{ site.com }}
 			<div style="font-size:20pt">
 				<br>
 				<br>
-				烟台小樱桃网络科技有限公司
+				烟台小樱桃网络科技有限公司（北京信悦通旗下公司）
 			</div>
 <!-- 			<ul>
 				<li><a href="ippbx.html"><span>企业通讯解决方案</span></a></li>
