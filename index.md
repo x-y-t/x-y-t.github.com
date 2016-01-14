@@ -5,17 +5,12 @@ title: {{ site.com }}
 
 <div id="header">
 			<div id="lang">
-				<!-- <a href="http://x-y-t.cn">烟台小樱桃</a> | -->
+				<a href="/jobs.html">工作机会</a>
 				<!-- <a href="/index_en.html">English Version</a> -->
 			</div>
 	
-			<div id="xlogo">
-				<!-- <a href="/"><img src="images/logo.jpg" alt="" /></a> -->
-			</div>
-			<div style="font-size:20pt">
-				<br>
-				<br>
-				烟台小樱桃网络科技有限公司（北京信悦通旗下公司）
+			<div id="logo">
+				<a href="/"><img src="images/xyt-logo-new.png" alt="" width="200px"/></a>
 			</div>
 <!-- 			<ul>
 				<li><a href="ippbx.html"><span>企业通讯解决方案</span></a></li>
@@ -30,8 +25,11 @@ title: {{ site.com }}
 		<div>
 			<div>
 				<h3>
-					网站建设中 ...
+					烟台小樱桃网络科技有限公司（北京信悦通旗下公司）
 				</h3>	
+				<p>
+										网站建设中 ...
+				</p>
 				<p>
 					烟台小樱桃网络科技有限公司是<a href="http://x-y-t.com">北京信悦通科技</a>旗下子公司，致力于使用新兴的VoIP技术打造下一代通信系统。我们的网站正在建设中。如果您有任何意见或建议，请通过 info@x-y-t.com 电子邮件联系我们。
 				</p>
