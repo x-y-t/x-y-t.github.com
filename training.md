@@ -43,15 +43,15 @@ FreeSWITCH培训课程主要分两大类：
   <br>
   <br>
 
-  <a href='http://www.freeswitch.org.cn/2015/12/04/freeswitch-training-2015-yt-happy-ending.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t9.png"></a>
-  <a href='http://www.freeswitch.org.cn/2015/09/21/freeswitch-training-2015-bj.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t8.png"></a>
-  <a href='http://www.freeswitch.org.cn/2015/05/24/freeswitch-training-2015-sh.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t7.png"></a>
-  <a href='http://www.freeswitch.org.cn/2015/01/19/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-cd.png"></a>
-  <a href='http://www.freeswitch.org.cn/2014/11/25/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-sz.png"></a>
-  <a href='http://www.freeswitch.org.cn/2014/06/23/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-bj.png"></a>
-  <a href='http://www.freeswitch.org.cn/2014/04/21/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-fst1401.png"></a>
-  <a href='http://www.freeswitch.org.cn/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t2.png"></a>
-  <a href='http://www.freeswitch.org.cn/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t1.png"></a>
+  <a href='http://www.freeswitch.org.cn/2015/12/04/freeswitch-training-2015-yt-happy-ending.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t9.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2015/09/21/freeswitch-training-2015-bj.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t8.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2015/05/24/freeswitch-training-2015-sh.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t7.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2015/01/19/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-cd.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2014/11/25/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-sz.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2014/06/23/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-bj.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2014/04/21/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-fst1401.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t2.png" style="margin:2px"></a>
+  <a href='http://www.freeswitch.org.cn/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t1.png" style="margin:2px"></a>
 </div>
 
 <br>
