@@ -3,6 +3,8 @@ layout: training
 title: 培训
 ---
 
+<a href="/"><img src="images/xyt-logo-new.png" alt="" width="200px"/></a>
+
 <div style="text-align:center;font-size:4em;line-height:1.2em">
 <hr>
 FreeSWITCH培训
