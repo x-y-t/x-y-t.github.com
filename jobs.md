@@ -7,15 +7,15 @@ title: {{ site.com }}
 	<div id="lang">
 		<!-- <a href="/index_en.html">English</a> -->
 	</div>
+	<div id="logo">
+		<a href="/"><img src="/images/xyt-logo-new.png" alt="" width="200"/></a>
+	</div>
+
+	<br style="clear:both"/>
 			<div style="font-size:20pt">
-				<br>
-				<br>
-				<a href="/">烟台小樱桃网络科技有限公司</a>
+				<a href="/">烟台小樱桃网络科技有限公司（北京信悦通旗下公司）</a>
 			</div>
 
-	<!-- <div id="logo"> -->
-		<!-- <a href="/"><img src="images/logo.jpg" alt="" /></a> -->
-	<!-- </div> -->
 </div>
 <div id="body">
 	<div class="about">
@@ -66,7 +66,7 @@ title: {{ site.com }}
 </pre>
 
 <pre>
-			职位： 美工
+			职位： 美工/用户体验设计
 			要求： 熟练使用Photoshop，有较好的设计功底。
 			优先： 有互联网产品工作经验者优先，有Web CSS工作经验者优先。
 			工作职责：负责公司网站、Web产品、宣传资料等设计。
@@ -80,7 +80,7 @@ title: {{ site.com }}
 </pre>
 
 <pre>
-			工作地点：烟台市芝罘区峰山路3号
+			工作地点：烟台市高新区创业大厦
 			联系方式：请发邮件到 <input readonly value="jobs@x-y-t.cn"/>
 </pre>
 
