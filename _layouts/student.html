@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="FreeSWITCH培训 小樱桃" />
+  <meta name="description" content="{{ site.com }}" />
+  <title>{{ page.title }} - {{ site.com }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <link href="/feed.xml" rel="alternate" title="{{ site.com }}" type="application/rss+xml" />
+  <link href="/atom.xml" rel="alternate" title="{{ site.com }}" type="application/atom+xml" />
+  <link href="/assets/stylesheets/bootstrap.css" rel="stylesheet">
+  <link href="/assets/stylesheets/bootstrap-responsive.min.css" rel="stylesheet">
+  <style type="text/css">
+    body {
+      /*padding-top: 60px;*/
+      padding-bottom: 40px;
+    }
+    h1,h2 {
+      margin-bottom: 20px !important;
+    }
+
+    li.post_list {
+      display: block;
+      margin-right: 15pt;
+      margin-bottom: 10pt;
+      padding: 5pt;
+      float: left;
+      border: 1px solid #999999;
+      width: 260px;
+    }
+  </style>
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Le fav and touch icons -->
+</head>
+
+<body data-spy="scroll" data-target=".subnav" data-offset="50">
+  <!-- Navbar ================================================== -->
+  <div class="navbar navbar-fixed-top">
+    <div class="xnavbar-inner">
+      <div class="container-fluid">
+        <div class="span12">
+          <br>
+          <a href="/" style="float:right">返回首页</a>
+        </div>
+        <!-- span12 -->
+      </div>
+    </div>
+    <!--navbar-inner-->
+  </div>
+  <!-- container -->
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span12">
+        <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="main" style="height:480px"></div>
+        <!-- ECharts单文件引入 -->
+        <script src="http://echarts.baidu.com/build/dist/echarts.js"></script>
+        <script type="text/javascript">
+        // 路径配置
+        require.config({
+          paths: {
+            echarts: 'http://echarts.baidu.com/build/dist'
+          }
+        });
+        // 使用
+        require(
+          [
+            'echarts',
+            'echarts/chart/map' // 使用地图就加载map模块，按需加载
+          ],
+          function(ec) {
+            // 基于准备好的dom，初始化echarts图表
+            var myChart = ec.init(document.getElementById('main'));
+
+            option = {
+              title: {
+                text: 'FreeSWITCH-CN学员分布',
+                subtext: '百分比显示',
+                x: 'center'
+              },
+              tooltip: {
+                trigger: 'item',
+                formatter: '{a}<br>{b}:{c}%'
+              },
+              legend: {
+                orient: 'vertical',
+                x: 'left',
+                data: ['FreeSWITCH学员']
+              },
+              dataRange: {
+                min: 0,
+                max: 25,
+                x: 'left',
+                y: 'bottom',
+                text: ['高', '低'], // 文本，默认为数值文本
+                calculable: true,
+                color: ['#0431B4', '#2E64FE', '#58ACFA', '#EFF5FB']
+              },
+              toolbox: {
+                show: true,
+                orient: 'vertical',
+                x: 'right',
+                y: 'center',
+                feature: {
+                  mark: {
+                    show: true
+                  },
+                  dataView: {
+                    show: true,
+                    readOnly: false
+                  },
+                  restore: {
+                    show: true
+                  },
+                  saveAsImage: {
+                    show: true
+                  }
+                }
+              },
+              roamController: {
+                show: true,
+                x: 'right',
+                mapTypeControl: {
+                  'china': true
+                }
+              },
+              series: [{
+                  name: 'FreeSWITCH学员',
+                  type: 'map',
+                  mapType: 'china',
+                  roam: false,
+                  itemStyle: {
+                    normal: {
+                      label: {
+                        show: true
+                      }
+                    },
+                    emphasis: {
+                      label: {
+                        show: true
+                      }
+                    }
+                  },
+                  data: [{
+                    name: '北京',
+                    value: 23.78
+                  }, {
+                    name: '天津',
+                    value: 0
+                  }, {
+                    name: '上海',
+                    value: 20.28
+                  }, {
+                    name: '重庆',
+                    value: 2.10
+                  }, {
+                    name: '河北',
+                    value: 0
+                  }, {
+                    name: '河南',
+                    value: 2.10
+                  }, {
+                    name: '云南',
+                    value: 0
+                  }, {
+                    name: '辽宁',
+                    value: 1.40
+                  }, {
+                    name: '黑龙江',
+                    value: 0.70
+                  }, {
+                    name: '湖南',
+                    value: 0.70
+                  }, {
+                    name: '安徽',
+                    value: 0.70
+                  }, {
+                    name: '山东',
+                    value: 2.80
+                  }, {
+                    name: '新疆',
+                    value: 0
+                  }, {
+                    name: '江苏',
+                    value: 4.90
+                  }, {
+                    name: '浙江',
+                    value: 8.39
+                  }, {
+                    name: '江西',
+                    value: 1.40
+                  }, {
+                    name: '湖北',
+                    value: 2.10
+                  }, {
+                    name: '广西',
+                    value: 0
+                  }, {
+                    name: '甘肃',
+                    value: 0
+                  }, {
+                    name: '山西',
+                    value: 0
+                  }, {
+                    name: '内蒙古',
+                    value: 0
+                  }, {
+                    name: '陕西',
+                    value: 0.70
+                  }, {
+                    name: '吉林',
+                    value: 0
+                  }, {
+                    name: '福建',
+                    value: 2.80
+                  }, {
+                    name: '贵州',
+                    value: 0
+                  }, {
+                    name: '广东',
+                    value: 15.38
+                  }, {
+                    name: '青海',
+                    value: 0
+                  }, {
+                    name: '西藏',
+                    value: 0
+                  }, {
+                    name: '四川',
+                    value: 5.59
+                  }, {
+                    name: '宁夏',
+                    value: 0
+                  }, {
+                    name: '海南',
+                    value: 0
+                  }, {
+                    name: '台湾',
+                    value: 3.50
+                  }, {
+                    name: '香港',
+                    value: 0.70
+                  }, {
+                    name: '澳门',
+                    value: 0
+                  }]
+                },
+
+              ]
+            };
+
+
+            // 为echarts对象加载数据
+            // myChart.setTheme('blue');
+            myChart.setTheme('theme/blue');
+            // myChart.setTheme({color:['red','green']});
+            myChart.setOption(option);
+          }
+        );
+        </script>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+  <br style="clear:both" />
+  <footer>
+    <div style="text-align:center">
+      Copyright &copy; FreeSWITCH-CN.
+      <br /> CSS template from
+      <a href="http://www.freecsstemplates.org/preview/replenish">Replenish</a> ... Site maintained by <a href="http://about.me/dujinfang" target="_blank">Seven</a> 版权所有 &copy; 2011-2015. www.freeswitch.org.cn
+      <br>
+    </div>
+  </footer>
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6189983-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+  </div>
+  <!-- Le javascript ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <!-- Load JQuery -->
+  <script src="/assets/javascripts/libs/jquery-1.7.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <!-- Load Bootstrap -->
+  <script src="/assets/javascripts/libs/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+  <!-- Load Bootstrap Plugins-->
+  <!-- Load Backbone -->
+  <script src="/assets/javascripts/libs/underscore.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/javascripts/libs/backbone.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/javascripts/libs/rails.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fdb349701f6bfc696483a1164f4f6d90d' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+</body>
+
+</html>
