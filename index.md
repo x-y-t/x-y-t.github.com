@@ -5,7 +5,7 @@ title: {{ site.com }}
 
 <div id="header">
 			<div id="lang">
-				<a href="/traning.html">FreeSWITCH培训</a> |
+				<a href="/training.html">FreeSWITCH培训</a> |
 				<a href="/jobs.html">工作机会</a>
 				<!-- <a href="/index_en.html">English Version</a> -->
 			</div>
