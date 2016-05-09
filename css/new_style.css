@@ -3,7 +3,7 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 /*-- banner --*/
-.gongzuo{ color:#FFF;}
+.gongzuo{ color:#999; font-size: 14px;}
 .jianjie{ color:#fff;}
 .banner{
 	background:url(../images/banner.jpg) no-repeat 0px 0px;
@@ -34,7 +34,7 @@ button#showRightPush {
   border: none;  
   padding: 3px 0 0;
   outline: none;
-  position: fixed;
+  /*position: fixed;*/
   z-index: 1;
   background: none;
 	}
@@ -296,7 +296,7 @@ nav#cbp-spmenu-s2 h3 {
 /*-- work --*/
 .work{
 	background:#EDEBEB;
-	padding:6em 0;
+	padding:3em 0;
 }
 .work h3{
 	color:#000000;
@@ -1144,6 +1144,9 @@ h2.b-from-left{
 	.top-nav {
 	  margin-left: 27em;
 	}
+	
+	.header-left a img{
+		width:75%;
 	.header-left {
 	  margin-top: 1em;
 	}
@@ -1305,6 +1308,9 @@ h2.b-from-left{
 	.top-nav img {
 	  width: 75%;
 	}
+
+	.header-left a img{
+		width:75%;
 	.intro p a {
 	  background: url(../images/up-arrow.png) no-repeat 14em 0.5em;
 	}
@@ -1365,7 +1371,7 @@ h2.b-from-left{
 	  display: none;
 	}
 	.about-grid {
-	  width: 33.33%;
+	  width: 50%;
 	}
 	.cap p {
 	  font-size: 15px;
@@ -1439,7 +1445,7 @@ h2.b-from-left{
 		width: 45%;
 	}
 	.header-left a img{
-		width:100%;
+		width:45%;
 	}
 	.top-nav {
 	  float: right;
