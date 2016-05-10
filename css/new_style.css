@@ -32,9 +32,9 @@ body{
 }
 button#showRightPush {
   border: none;  
-  padding: 3px 0 0;
+  padding: 8px 0 0;
   outline: none;
-  /*position: fixed;*/
+  position: absolute;
   z-index: 1;
   background: none;
 	}
@@ -886,7 +886,7 @@ h2.b-from-left{
 	  padding: 13em 0 0;
 	}
 	.intro p a {
-	background: url(../images/up-arrow.png) no-repeat 27em 0.5em;
+	background: url(../images/up-arrow.png) no-repeat 21em 0.5em;
 	height: 17px;
 	}
 	.banner {
@@ -983,7 +983,7 @@ h2.b-from-left{
 		font-size: 16px;
 	}
 	.intro p a {
-		background: url(../images/up-arrow.png) no-repeat 21em 0.5em;
+		background: url(../images/up-arrow.png) no-repeat 17em 0.5em;
 	}
 	.introduction p, .download p, .about-us p.ut, .contact p {
 	  font-size: 16px;
@@ -1009,7 +1009,7 @@ h2.b-from-left{
 	}
 	.singular-left {
 	  float: left;
-	  width: 50%;
+	  width: 100%;
 	}
 	.singular-left p.sing {
 		font-size: 15px;
@@ -1018,9 +1018,9 @@ h2.b-from-left{
 	  margin: 2em 0 0;
 	}
 	.singular-right {
-	  margin-top: 0em;
+	  margin-top: 5em;
 	  float: right;
-	  width: 50%;
+	  width: 100%;
 	}
 	.singular-grid-right h4 {
 		font-size: 1.2em;
@@ -1101,7 +1101,7 @@ h2.b-from-left{
 	}
 	.about-grid {
 	  float: left;
-	  width: 25%;
+	  width: 50%;
 	}
 	.cap p {
 	  font-size: 18px;
@@ -1288,6 +1288,9 @@ h2.b-from-left{
 	.top-nav {
 	  margin-left: 21.9em;
 	}
+	.intro p a {
+	  background: url(../images/up-arrow.png) no-repeat 13.5em 0.5em;
+	}
 	.top-nav img {
 	  width: 75%;
 	}
@@ -1311,8 +1314,9 @@ h2.b-from-left{
 
 	.header-left a img{
 		width:75%;
+	}
 	.intro p a {
-	  background: url(../images/up-arrow.png) no-repeat 14em 0.5em;
+	  background: url(../images/up-arrow.png) no-repeat 12.5em 0.5em;
 	}
 	.intro {
 	  padding: 8em 0 0;
@@ -1368,7 +1372,7 @@ h2.b-from-left{
 	  padding: 3.4em 0;
 	}
 	.about-grid:nth-child(4) {
-	  display: none;
+	 
 	}
 	.about-grid {
 	  width: 50%;
@@ -1414,7 +1418,7 @@ h2.b-from-left{
 	  margin-left: 11em;
 	}
 	.intro p a {
-	  background: url(../images/up-arrow.png) no-repeat 12em 0.5em;
+	  background: url(../images/up-arrow.png) no-repeat 11em 0.5em;
 	}
 }
 @media screen and (max-width: 384px){
@@ -1429,7 +1433,7 @@ h2.b-from-left{
 	  width:100%;
 	}
 	.intro p a {
-	  background: url(../images/up-arrow.png) no-repeat 11em 0.5em;
+	  background: url(../images/up-arrow.png) no-repeat 10em 0.5em;
 	}
 }
 @media screen and (max-width: 375px){
@@ -1465,7 +1469,7 @@ h2.b-from-left{
 	  min-height: 330px;
 	}
 	.intro p a {
-	  background: url(../images/up-arrow.png) no-repeat 10em 0.5em;
+	  background: url(../images/up-arrow.png) no-repeat 10.5em 0.5em;
 	}
 	.intro p {
 	  font-size: 13px;
