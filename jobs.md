@@ -104,7 +104,7 @@ title: {{ site.com }}
 <p>您将有机会 ---
 
 <ul>
-<li>学习和钻研各种各样的技术，比如 Linux/Windows/MacOSX C/C++/C#(gcc/VisualStudio)  Erlang Ruby/Rails HTTP/HTML/Javascript/Flex PostgreSQL/MySQL/Oracle SIP/FreeSWITCH/OpenSIPS git/svn</li>
+<li>学习和钻研各种各样的技术，比如 Linux/Windows/MacOSX C/C++/C#(gcc/VisualStudio)  Erlang/Go Ruby/Rails HTTP/HTML/Javascript/Flex/React PostgreSQL/MySQL/Oracle SIP/FreeSWITCH/OpenSIPS Git/SVN</li>
 <li>提高英语水平，参与国际化的项目</li>
 <li>建设最先进的语音云计算平台</li>
 <li>到全国甚至世界各地出差/旅游</li>
