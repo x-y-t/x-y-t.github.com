@@ -34,7 +34,7 @@ button#showRightPush {
   border: none;  
   padding: 8px 0 0;
   outline: none;
-  position: absolute;
+  position: fixed;
   z-index: 1;
   background: none;
 	}
@@ -136,7 +136,7 @@ nav#cbp-spmenu-s2 h3 {
 }
 .download p{
 	font-size:20px;
-	color:#fff;
+	color:#222222;
 	margin:0 auto 6em;
 	width:65%;
 	line-height: 1.8em;
@@ -144,7 +144,7 @@ nav#cbp-spmenu-s2 h3 {
 .download a{
 	padding:.5em 3em;
 	border: 2px solid #fff;
-	color: #fff;
+	color: #222222;
 	font-size: 2.5em;
 	text-decoration:none;
 }
@@ -815,6 +815,9 @@ h2.b-from-left{
 	.banner-info {
 	  padding: 18em 0 0;
 	}
+	.header-left a img{
+		width:137px;
+	}
 	.banner {
 		min-height: 745px;
 	}
@@ -1096,7 +1099,7 @@ h2.b-from-left{
 	.b-from-left p {
 	  padding: 2.34em 0;
 	}
-	.about-us p.ut {
+	.about-us p.ut { 
 	  margin: 0 auto 2em;
 	}
 	.about-grid {
@@ -1147,6 +1150,7 @@ h2.b-from-left{
 	
 	.header-left a img{
 		width:75%;
+	}
 	.header-left {
 	  margin-top: 1em;
 	}
