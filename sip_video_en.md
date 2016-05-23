@@ -9,7 +9,7 @@ title: Beijing XinYueTong Technology Co., Ltd.
     </div>
 
     <div id="logo">
-        <a href="/index_en.html"><img src="images/logoo.jpg" alt="" /></a>
+        <a href="/index_en.html"><img src="images/new_logo.png" alt="烟台小樱桃" /></a>
     </div>
     <ul>
         <li><a href="ippbx_en.html"><span>Company PBX solutions</span></a></li>

@@ -3,13 +3,14 @@ layout: default
 title: Beijing XinYueTong Technology Co., Ltd.
 ---
 
+
 <div id="header_en">
     <div id="lang">
-        <a href="/">中&nbsp;文</a>
+        <a href="/">中文</a>
     </div>
 
     <div id="logo">
-        <a href="/index_en.html"><img src="images/logoo.jpg" alt="" /></a>
+        <a href="/index_en.html"><img src="images/new_logo.png" alt="烟台小樱桃" /></a>
     </div>
     <ul>
         <li class="selected"><a href="ippbx_en.html"><span>Company PBX solutions</span></a></li>
