@@ -24,8 +24,8 @@ FreeSWITCH培训课程主要分两大类：
 <div class="separator"><h2>即将到来的培训</h2></div>
 
 <div style="text-align:center">
-  <a href='/fst1604.html' style="margin:2px"><img src="/images/training/fst1604.png"></a>
-
+  
+<a href='http://www.freeswitch.org.cn/fscnds-2016.html#' style="margin:2px"><img src="/images/training/fst1605.png"></a>
   <a href='#' style="margin:2px" onclick="alert('感谢关注，敬请期待...');return false;"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t0.png"></a>
 </div>
 
@@ -44,7 +44,7 @@ FreeSWITCH培训课程主要分两大类：
 
   <br>
   <br>
-
+<a href='/fst1604.html' style="margin:2px"><img src="/images/training/fst1604.png"></a>
   <a href='http://www.freeswitch.org.cn/2015/12/04/freeswitch-training-2015-yt-happy-ending.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t9.png" style="margin:2px"></a>
   <a href='http://www.freeswitch.org.cn/2015/09/21/freeswitch-training-2015-bj.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t8.png" style="margin:2px"></a>
   <a href='http://www.freeswitch.org.cn/2015/05/24/freeswitch-training-2015-sh.html'><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t7.png" style="margin:2px"></a>
