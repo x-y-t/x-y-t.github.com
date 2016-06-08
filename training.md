@@ -25,7 +25,7 @@ FreeSWITCH培训课程主要分两大类：
 
 <div style="text-align:center">
   
-<a href='http://www.freeswitch.org.cn/fscnds-2016.html#' style="margin:2px"><img src="/images/training/fst1605.png"></a>
+<a href='/fst1608.html' style="margin:2px"><img src="/images/training/fst1605.png"></a>
   <a href='#' style="margin:2px" onclick="alert('感谢关注，敬请期待...');return false;"><img src="http://www.freeswitch.org.cn/images/training/freeswitch-t0.png"></a>
 </div>
 
