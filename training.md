@@ -17,7 +17,7 @@ FreeSWITCH培训
 
 FreeSWITCH培训课程主要分两大类：
 
-* 公共的FreeSWITCH培训课程（培训班），每年不定期在不同城市举办，截止目前已举办七届。
+* 公共的FreeSWITCH培训课程（培训班），每年不定期在不同城市举办，截止目前已举办十届。
 * 私下的FreeSWITCH培训（到企业里去或网上远程培训），根据企业需求进行安排，目前已到国内外各大公司交流培训十余次。邮件联系我们：`info@x-y-t.com`
 <!-- * 您可以通过有赞商城直接在线报名，提前报名享有超低折扣。报名地址：[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://detail.koudaitong.com/show/goods?alias=i6ypaq4r&activity=) 。也可以到具体的培训班页面报名。 -->
 
