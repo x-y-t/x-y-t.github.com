@@ -538,7 +538,7 @@ ul.about-flex-slides {
     position: relative;
     font-size: 16px;
     padding: 10px;
-    background: rgba(0, 0, 0, 0.8);
+    background: #ccc;
     margin: 5px 0 0 0;
 }
 
