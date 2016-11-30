@@ -146,7 +146,7 @@
       var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
       map.addControl(ctrl_sca);
         }
-        
+
         //标注点数组
         var markerArr = [{title:"烟台小樱桃网络科技有限公司",content:"创业小宅B座901室",point:"121.494001|37.456534",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
          ];
@@ -158,9 +158,9 @@
                 var p1 = json.point.split("|")[1];
                 var point = new BMap.Point(p0,p1);
           var iconImg = createIcon(json.icon);
-                var marker = new BMap.Marker(point,{icon:iconImg});
+                var marker = new BMap.Marker(point);
           var iw = createInfoWindow(i);
-          var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+          var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+20,-20)});
           marker.setLabel(label);
                 map.addOverlay(marker);
                 label.setStyle({
@@ -168,7 +168,7 @@
                             color:"#333",
                             cursor:"pointer"
                 });
-          
+
           (function(){
             var index = i;
             var _iw = createInfoWindow(i);
@@ -203,7 +203,7 @@
             var icon = new BMap.Icon("http://app.baidu.com/map/images/us_mk_icon.png", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
             return icon;
         }
-        
+
         initMap();//创建和初始化地图
     </script>
 
