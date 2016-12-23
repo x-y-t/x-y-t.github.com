@@ -533,7 +533,7 @@ ul.about-flex-slides {
     position: relative;
     font-size: 16px;
     padding: 10px;
-    background: #ccc;
+    background: #e5e5e5;
     margin: 5px 0 0 0;
 }
 
@@ -642,14 +642,14 @@ ul.about-flex-slides {
 }
 
 .view-tenth:hover img {
-    -webkit-transform: scale(5);
+/*    -webkit-transform: scale(5);
     -moz-transform: scale(5);
     -o-transform: scale(5);
     -ms-transform: scale(5);
     transform: scale(5);
     -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-    filter: alpha(opacity=.5);
-    opacity: .5;
+    filter: alpha(opacity=.5);*/
+    opacity: .6;
 }
 
 .view-tenth:hover .mask {
