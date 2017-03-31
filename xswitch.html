@@ -16,11 +16,14 @@
   <style type="text/css">
   *{font-size: 14px;}
     /*ul.navbar-nav li{color:#fff;background-color:#00a0e8;margin-right: 10px;margin-bottom:15px;padding:10px;line-height: 20px;border-radius:8px;-moz-box-shadow:5px 5px 6px #c0c0c0;box-shadow:5px 5px 6px #c0c0c0;}*/
-    ul.ban li{line-height: 30px;padding: 10px;margin-bottom:20px;font-size: 18px;}
+    ul.ban li{line-height: 20px;padding: 10px;margin-bottom:10px;font-size: 18px;
+        /*-webkit-text-stroke: 0.5px #FFF;*/
+        /*-webkit-text-fill-color: #000;*/
+    }
     .xs{width: 100%; margin-bottom: 30px;}
     .bs{height: 273px;background-color: #f2f2f2;}
-    .tx{height: 413px;background-color: #f2f2f2;}
-    ul.bs-l li{line-height: 30px;margin-bottom: 20px;padding: 10px;}
+    .tx{xheight: 413px;background-color: #f2f2f2;}
+    ul.bs-l li{line-height: 20px;margin-bottom: 20px;padding: 10px;}
     em:hover{color:red;}
     em{cursor:pointer;color: #d55c48;}
   </style>
@@ -28,15 +31,18 @@
   <body>
 
     <div class="container">
-        <a class="navbar-brand" href="xswitch.html" style="margin-top:25px;"><img src="img/xswitch.png" alt="logo" style="width:120px;"></a><br>
-        <h1 class="text-center feature-head" style="color: #343434; padding-bottom: 20px;">XSWITCH是一个软交换机和通信协作平台</h1>
+        <a href="/" style="float:right"><br/>返回首页</a>
+        <a class="navbar-brand" href="xswitch.html" style="margin-top:25px;"><img src="img/xswitch.png" alt="xswitch logo" style="width:120px;"></a>
+        <br>
+        <br style="clear:both">
+        <h1 class="text-center feature-head" style="color: #343434; padding-bottom: 20px;">XSWITCH是一个交换机软件和通信协作平台</h1>
     </div>
 
     <div>
         <img src="img/banner/xs.jpg" class="xs">
     </div>
 
-    <div class="container" style="margin-bottom: 20px;">
+    <div class="container" style="margin-bottom: 20px; background:url(/img/xswitch-icon.png) no-repeat center center;">
         <!-- <div><img src="img/banner/2017bj.jpg"></div> -->
         <ul class="nav ban" style="float:left;">
             <li>基于FreeSWITCH实现</li>
@@ -47,13 +53,13 @@
             <li>录音/录像/直播</li>
             <li>连接传统电话线路</li>
         </ul>
-        <ul class="nav ban" style="float:right;">
+        <ul class="nav ban" style="float:right;text-align:right">
             <li>支持WebRTC</li>
             <li>支持SIP/H323</li>
             <li>连接到Agora网络</li>
-            <li>移动端App（Android/iOS，第三方提供）</li>
-            <li>开放的API，可对接各种CRM及第三方系统，无限扩展</li>
-            <li>开放的源代码，可二次开发，无限可能</li>
+            <li>移动端App[Android/iOS，第三方提供]</li>
+            <li>开放的API，可对接各种CRM及第三方系统</li>
+            <li>开放的源代码，可二次开发</li>
             <li>支持第三方功能模块，健康的生态环境</li>
         </ul>
     </div>
@@ -61,37 +67,65 @@
     <div class="bs">
         <div class="container">
             <h2 class="text-center" style="color: #343434">部署方式</h2>
-            <ul class="bs-l nav">
-                <li>1）云端部署：阿里云，腾迅云 …</li>
-                <li>2）本地安装：X86、ARM、Raspberry PI、Orange PI、 CubieTruck、Mac、Windows、Linux、 ...</li>
-                <li>3）XSWITCH盒子</li>
+            <br/>
+            <ul class="bs-l nav" style="text-align: center;">
+                <li>公有云：阿里云，腾迅云 …</li>
+                <li>私有化安装：X86、ARM、Raspberry PI、Orange PI、 CubieTruck、Mac、Windows、Linux、 ...</li>
+                <li>一体机：XSWITCH盒子</li>
             </ul>
         </div>
     </div>
 
     <div class="container">
-        <div style="height: 180px;margin-top: 40px;">
+        <div style="xheight: 180px; margin-top: 40px;">
             <h2 class="text-center" style="color: #343434">云端服务</h2>
-            <p style="margin-top: 50px;">「XSWITCH云」是一个云端平台，可以连接千千万万个SIP/H323客户端，也可以连接XSWITCH盒子。系统将于5月份上线。</p>
+            <p style="margin-top: 50px; text-align:center">「XSWITCH云」是一个云端平台，可以连接千千万万个SIP/H323客户端，也可以连接万万千千个XSWITCH盒子。系统将于2017上半年上线。</p>
+
+            <ul class="bs-l nav" style="text-align: center">
+                <li><strong><a target="_blank" href="https://jinshuju.net/f/RO2b3l">立即免费注册获取「XSWITCH云」内测名额并预留专属ID。</a></strong></li>
+                <li>专属ID将可用于</li>
+                <li>您的登录用户名，如 <span style="color:red">xyt</span><br>
+                    您的共享域，如 xswitch.cn/<span style="color:red">xyt</span><br>
+                    您的专属域，如 <span style="color:red">xyt</span>.xswitch.cn<br>
+                    您自己的域，如 xswitch.<span style="color:red">xyt</span>.cn<br>
+            </ul>
         </div>
     </div>
 
     <div class="tx">
         <div class="container">
             <h2 class="text-center" style="color: #343434">通信技术咨询</h2>
-            <ul class="bs-l nav">
-                <li>关注小樱桃科技公众号并购买XSWITCH专家咨询（仅限前100名），包含如下服务：</li>
-                <li>1）一对一通信技术专家一小时技术咨询服务（价值1500元）。</li>
-                <li>2）FreeSWITCH相关电子书大礼包（价值XXX元）。</li>
-                <li>3）XSWITCH盒子一个（价值XXX元）。</li>
-                <li>4）获取「XSWITCH云」内测名额并预留专属ID。<em onclick="go()">（填写表单）</em></li>
+            <br/>
+            <ul class="bs-l nav" style="text-align: center">
+                <li>关注小樱桃科技公众号并购买XSWITCH专家咨询，包含如下服务：</li>
+                <li>一对一通信技术专家一小时技术咨询服务（价值1500元）<br>
+                    不管您是否使用XSWITCH，我们都可以提供有价值的电话通信技术咨询</li>
+                <li>前100名还可获赠</li>
+                <li>FreeSWITCH相关电子书大礼包（价值199元）。<br>
+                    XSWITCH盒子一个（内测版，价值1500元）。
+                </li>
+
+                <li>前50名还可获赠</li>
+                <li>迅时网关一个（价值500元）<br>
+                    潮流IP话机一个（价值500元）
+                </li>
+            </ul>
         </div>
     </div>
 
     <div class="container">
-        <div style="height: 180px;margin-top: 40px;">
-            <h2 class="text-center" style="color: #343434">专属ID</h2>
-            <p style="margin-top: 50px;">假设您的ID是xyt，您可以使用 xswitch.cn/xyt/，或xyt.xswitch.cn ，或 xswitch.xyt.cn</p>
+        <div style="xheight: 180px;margin-top: 40px;">
+            <h2 class="text-center" style="color: #343434">相关资源</h2>
+            <ul class="bs-ls nav" style="text-align: center">
+                <li><a href="http://www.freeswitch.org.cn">FreeSWITCH中文社区</a></li>
+                <li><a href="http://book.dujinfang.com">FreeSWITCH图书</a></li>
+                <li><a href="https://github.com/seven1240/xui">XUI源代码</a></li>
+            </ul>
+
+            <br>
+            <br>
+
+            <div style="text-align:center">最后，别忘了扫描下面的二维码关注我们的公众号，以获取最新更新通知。</div>
         </div>
     </div>
 
@@ -109,11 +143,11 @@
                 </div>
                 <div class="col-lg-5 col-sm-5">
                     <h1>版权所有</h1>
-                    <p>© 2016-2017. 烟台小樱桃网络科技有限公司 保留所有权利   京ICP备:14008957</p>
+                    <p>© 2016-2017. 烟台小樱桃网络科技有限公司 保留所有权利<br/>   京ICP备:14008957</p>
                 </div>
-                <div class="col-lg-3 col-sm-3 col-lg-offset-1" style="margin-left:0;">
+                <div class="col-lg-3 col-sm-3 col-lg-offset-1" style="margin-left:0;min-width: 300px">
                   <div style="float:left;">
-                    <h1 style="margin-left:9px;">小樱桃商城</h1>
+                    <h1 style="margin-left:9px;">小樱桃科技</h1>
                     <p><img src="img/banner/xyt.jpg"></p>
                   </div>
                   <div style="float:right;">
